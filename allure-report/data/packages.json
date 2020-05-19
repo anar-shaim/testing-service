@@ -1,0 +1,73 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestJuicersWithPow",
+    "children" : [ {
+      "name" : "juiciersWithP",
+      "uid" : "61b9925d52e0e621",
+      "parentUid" : "47b0a0741b387c3861c021fca571df1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589903766127,
+        "stop" : 1589903794026,
+        "duration" : 27899
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "47b0a0741b387c3861c021fca571df1c"
+  }, {
+    "name" : "TestJuicers",
+    "children" : [ {
+      "name" : "juiciers",
+      "uid" : "b1d365ec99b1c375",
+      "parentUid" : "15389c1450dc36f2fdc3ec82b49ea0ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589903821612,
+        "stop" : 1589903848120,
+        "duration" : 26508
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "15389c1450dc36f2fdc3ec82b49ea0ae"
+  }, {
+    "name" : "TestChngTowns",
+    "children" : [ {
+      "name" : "checkTowns",
+      "uid" : "561d5486855f7fc6",
+      "parentUid" : "6949a7a81c1a4f93798b2f61722dcb8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589903861887,
+        "stop" : 1589903906457,
+        "duration" : 44570
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6949a7a81c1a4f93798b2f61722dcb8e"
+  }, {
+    "name" : "TestLogIn",
+    "children" : [ {
+      "name" : "authorize",
+      "uid" : "ea30f1221a4a0668",
+      "parentUid" : "b6f217dc1d9b9dca9b21bca42b53b0c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589903922698,
+        "stop" : 1589903957570,
+        "duration" : 34872
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b6f217dc1d9b9dca9b21bca42b53b0c2"
+  } ]
+}

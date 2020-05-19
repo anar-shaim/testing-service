@@ -1,0 +1,95 @@
+{
+  "uid" : "ea30f1221a4a0668",
+  "name" : "authorize",
+  "fullName" : "TestLogIn.authorize",
+  "historyId" : "3061868c78892394d5247145d1da2542",
+  "time" : {
+    "start" : 1589903922698,
+    "stop" : 1589903957570,
+    "duration" : 34872
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e0c2e1dc8a2604e1",
+      "name" : "Page screenshot",
+      "source" : "e0c2e1dc8a2604e1.png",
+      "type" : "image/png",
+      "size" : 545776
+    }, {
+      "uid" : "598414e1704a7fb7",
+      "name" : "Page screenshot",
+      "source" : "598414e1704a7fb7.png",
+      "type" : "image/png",
+      "size" : 377018
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestLogIn"
+  }, {
+    "name" : "testClass",
+    "value" : "TestLogIn"
+  }, {
+    "name" : "testMethod",
+    "value" : "authorize"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "TestingService"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogIn"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8FTS9IR"
+  }, {
+    "name" : "thread",
+    "value" : "29740@DESKTOP-8FTS9IR.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7724ea2bbcbdc7e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589902613479,
+        "stop" : 1589902646094,
+        "duration" : 32615
+      }
+    }, {
+      "uid" : "34cce0071bf3a0e5",
+      "status" : "failed",
+      "statusDetails" : "expected [profile] but found [profileMenuAnonymous]",
+      "time" : {
+        "start" : 1589902597643,
+        "stop" : 1589902606294,
+        "duration" : 8651
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea30f1221a4a0668.json",
+  "parameterValues" : [ ]
+}

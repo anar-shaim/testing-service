@@ -1,0 +1,166 @@
+{
+  "uid" : "b1d365ec99b1c375",
+  "name" : "juiciers",
+  "fullName" : "TestJuicers.juiciers",
+  "historyId" : "b3de5773e436fa80ce31ff819239fb60",
+  "time" : {
+    "start" : 1589903821612,
+    "stop" : 1589903848120,
+    "duration" : 26508
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "31789df01b883ea1",
+      "name" : "Page screenshot",
+      "source" : "31789df01b883ea1.png",
+      "type" : "image/png",
+      "size" : 190724
+    }, {
+      "uid" : "939be6cb4e113f9d",
+      "name" : "Page screenshot",
+      "source" : "939be6cb4e113f9d.png",
+      "type" : "image/png",
+      "size" : 167172
+    }, {
+      "uid" : "c7a67950fb847fb",
+      "name" : "Page screenshot",
+      "source" : "c7a67950fb847fb.png",
+      "type" : "image/png",
+      "size" : 150245
+    }, {
+      "uid" : "319955d34ed6e08",
+      "name" : "Page screenshot",
+      "source" : "319955d34ed6e08.png",
+      "type" : "image/png",
+      "size" : 180012
+    }, {
+      "uid" : "6028d333228da574",
+      "name" : "Page screenshot",
+      "source" : "6028d333228da574.png",
+      "type" : "image/png",
+      "size" : 126412
+    }, {
+      "uid" : "82c474f9569795ae",
+      "name" : "Page screenshot",
+      "source" : "82c474f9569795ae.png",
+      "type" : "image/png",
+      "size" : 125631
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 6,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestJuicers"
+  }, {
+    "name" : "testClass",
+    "value" : "TestJuicers"
+  }, {
+    "name" : "testMethod",
+    "value" : "juiciers"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "TestingService"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJuicers"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8FTS9IR"
+  }, {
+    "name" : "thread",
+    "value" : "26396@DESKTOP-8FTS9IR.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b1491c823b1c75e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589903352040,
+        "stop" : 1589903378212,
+        "duration" : 26172
+      }
+    }, {
+      "uid" : "43dd6a2df3696ed7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589902001094,
+        "stop" : 1589902026109,
+        "duration" : 25015
+      }
+    }, {
+      "uid" : "3318b590f511de0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589901956563,
+        "stop" : 1589901983434,
+        "duration" : 26871
+      }
+    }, {
+      "uid" : "a97cc979cf91cd56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589901752554,
+        "stop" : 1589901778678,
+        "duration" : 26124
+      }
+    }, {
+      "uid" : "4ecc931fe2a19024",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589901665489,
+        "stop" : 1589901691490,
+        "duration" : 26001
+      }
+    }, {
+      "uid" : "df87e36e39f84d8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589901140857,
+        "stop" : 1589901167841,
+        "duration" : 26984
+      }
+    }, {
+      "uid" : "35bc91649490a47c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589901078089,
+        "stop" : 1589901105403,
+        "duration" : 27314
+      }
+    }, {
+      "uid" : "2a4cfcd99072bfa7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589900795587,
+        "stop" : 1589900821742,
+        "duration" : 26155
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b1d365ec99b1c375.json",
+  "parameterValues" : [ ]
+}

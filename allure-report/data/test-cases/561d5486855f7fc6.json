@@ -1,0 +1,130 @@
+{
+  "uid" : "561d5486855f7fc6",
+  "name" : "checkTowns",
+  "fullName" : "TestChngTowns.checkTowns",
+  "historyId" : "9964e70f92a36aa3f306e0fc4e4b973b",
+  "time" : {
+    "start" : 1589903861887,
+    "stop" : 1589903906457,
+    "duration" : 44570
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "677b250bb881ae81",
+      "name" : "Page screenshot",
+      "source" : "677b250bb881ae81.png",
+      "type" : "image/png",
+      "size" : 480187
+    }, {
+      "uid" : "98a97366223fe1ca",
+      "name" : "Page screenshot",
+      "source" : "98a97366223fe1ca.png",
+      "type" : "image/png",
+      "size" : 268678
+    }, {
+      "uid" : "8d4d27804186154d",
+      "name" : "Page screenshot",
+      "source" : "8d4d27804186154d.png",
+      "type" : "image/png",
+      "size" : 629513
+    }, {
+      "uid" : "dee13ceb3b81d1a0",
+      "name" : "Page screenshot",
+      "source" : "dee13ceb3b81d1a0.png",
+      "type" : "image/png",
+      "size" : 261200
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestChngTowns"
+  }, {
+    "name" : "testClass",
+    "value" : "TestChngTowns"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkTowns"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "TestingService"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChngTowns"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8FTS9IR"
+  }, {
+    "name" : "thread",
+    "value" : "30856@DESKTOP-8FTS9IR.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c3845b930071db86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589902682532,
+        "stop" : 1589902720435,
+        "duration" : 37903
+      }
+    }, {
+      "uid" : "14aa580cb6ed3e2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589902413322,
+        "stop" : 1589902449492,
+        "duration" : 36170
+      }
+    }, {
+      "uid" : "3f2fee4a46b060a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589902288626,
+        "stop" : 1589902323483,
+        "duration" : 34857
+      }
+    }, {
+      "uid" : "d9a696ee3f046520",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589902190341,
+        "stop" : 1589902226326,
+        "duration" : 35985
+      }
+    }, {
+      "uid" : "3b0981bc3849426f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589901397300,
+        "stop" : 1589901436175,
+        "duration" : 38875
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "561d5486855f7fc6.json",
+  "parameterValues" : [ ]
+}

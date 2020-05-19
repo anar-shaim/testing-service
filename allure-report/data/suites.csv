@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 19 19:56:06 GMT+04:00 2020","Tue May 19 19:56:34 GMT+04:00 2020","27899","Default Suite","TestingService","TestJuicersWithPow","TestJuicersWithPow","juiciersWithP","juiciersWithP",""
+"passed","Tue May 19 19:57:41 GMT+04:00 2020","Tue May 19 19:58:26 GMT+04:00 2020","44570","Default Suite","TestingService","TestChngTowns","TestChngTowns","checkTowns","checkTowns",""
+"passed","Tue May 19 19:58:42 GMT+04:00 2020","Tue May 19 19:59:17 GMT+04:00 2020","34872","Default Suite","TestingService","TestLogIn","TestLogIn","authorize","authorize",""
+"passed","Tue May 19 19:57:01 GMT+04:00 2020","Tue May 19 19:57:28 GMT+04:00 2020","26508","Default Suite","TestingService","TestJuicers","TestJuicers","juiciers","juiciers",""

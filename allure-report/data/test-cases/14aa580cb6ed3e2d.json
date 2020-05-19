@@ -1,0 +1,82 @@
+{
+  "uid" : "14aa580cb6ed3e2d",
+  "name" : "checkTowns",
+  "fullName" : "TestChngTowns.checkTowns",
+  "historyId" : "9964e70f92a36aa3f306e0fc4e4b973b",
+  "time" : {
+    "start" : 1589902413322,
+    "stop" : 1589902449492,
+    "duration" : 36170
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "21a00e00bf1b17ba",
+      "name" : "Page screenshot",
+      "source" : "21a00e00bf1b17ba.png",
+      "type" : "image/png",
+      "size" : 389606
+    }, {
+      "uid" : "f27a49a08ba2a64e",
+      "name" : "Page screenshot",
+      "source" : "f27a49a08ba2a64e.png",
+      "type" : "image/png",
+      "size" : 417134
+    }, {
+      "uid" : "b988540a56907996",
+      "name" : "Page screenshot",
+      "source" : "b988540a56907996.png",
+      "type" : "image/png",
+      "size" : 260604
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestChngTowns"
+  }, {
+    "name" : "testClass",
+    "value" : "TestChngTowns"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkTowns"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "TestingService"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChngTowns"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8FTS9IR"
+  }, {
+    "name" : "thread",
+    "value" : "28624@DESKTOP-8FTS9IR.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14aa580cb6ed3e2d.json",
+  "parameterValues" : [ ]
+}

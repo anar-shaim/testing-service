@@ -1,0 +1,81 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "TestingService",
+      "children" : [ {
+        "name" : "TestJuicersWithPow",
+        "children" : [ {
+          "name" : "juiciersWithP",
+          "uid" : "61b9925d52e0e621",
+          "parentUid" : "22a01a668fb96da08680b495275199bd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589903766127,
+            "stop" : 1589903794026,
+            "duration" : 27899
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "22a01a668fb96da08680b495275199bd"
+      }, {
+        "name" : "TestJuicers",
+        "children" : [ {
+          "name" : "juiciers",
+          "uid" : "b1d365ec99b1c375",
+          "parentUid" : "7129355c5eefe899adfe2765d106e0c7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589903821612,
+            "stop" : 1589903848120,
+            "duration" : 26508
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7129355c5eefe899adfe2765d106e0c7"
+      }, {
+        "name" : "TestChngTowns",
+        "children" : [ {
+          "name" : "checkTowns",
+          "uid" : "561d5486855f7fc6",
+          "parentUid" : "d5df9bd20cdfef2fe9e09de6c4b1cfb3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589903861887,
+            "stop" : 1589903906457,
+            "duration" : 44570
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d5df9bd20cdfef2fe9e09de6c4b1cfb3"
+      }, {
+        "name" : "TestLogIn",
+        "children" : [ {
+          "name" : "authorize",
+          "uid" : "ea30f1221a4a0668",
+          "parentUid" : "7bf26c12c1fcbfbf359b8be2a7e44378",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589903922698,
+            "stop" : 1589903957570,
+            "duration" : 34872
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7bf26c12c1fcbfbf359b8be2a7e44378"
+      } ],
+      "uid" : "71859056b5f226347599ede34db587ed"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

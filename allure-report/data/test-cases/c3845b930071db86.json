@@ -1,0 +1,88 @@
+{
+  "uid" : "c3845b930071db86",
+  "name" : "checkTowns",
+  "fullName" : "TestChngTowns.checkTowns",
+  "historyId" : "9964e70f92a36aa3f306e0fc4e4b973b",
+  "time" : {
+    "start" : 1589902682532,
+    "stop" : 1589902720435,
+    "duration" : 37903
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "877f1bafa24930ff",
+      "name" : "Page screenshot",
+      "source" : "877f1bafa24930ff.png",
+      "type" : "image/png",
+      "size" : 571320
+    }, {
+      "uid" : "5400729475ce6304",
+      "name" : "Page screenshot",
+      "source" : "5400729475ce6304.png",
+      "type" : "image/png",
+      "size" : 279084
+    }, {
+      "uid" : "e1d4408a8884d7d9",
+      "name" : "Page screenshot",
+      "source" : "e1d4408a8884d7d9.png",
+      "type" : "image/png",
+      "size" : 402534
+    }, {
+      "uid" : "f6d69aaf689d6807",
+      "name" : "Page screenshot",
+      "source" : "f6d69aaf689d6807.png",
+      "type" : "image/png",
+      "size" : 193440
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestChngTowns"
+  }, {
+    "name" : "testClass",
+    "value" : "TestChngTowns"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkTowns"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "TestingService"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChngTowns"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8FTS9IR"
+  }, {
+    "name" : "thread",
+    "value" : "23224@DESKTOP-8FTS9IR.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3845b930071db86.json",
+  "parameterValues" : [ ]
+}

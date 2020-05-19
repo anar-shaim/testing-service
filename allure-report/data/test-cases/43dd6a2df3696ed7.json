@@ -1,0 +1,100 @@
+{
+  "uid" : "43dd6a2df3696ed7",
+  "name" : "juiciers",
+  "fullName" : "TestJuicers.juiciers",
+  "historyId" : "b3de5773e436fa80ce31ff819239fb60",
+  "time" : {
+    "start" : 1589902001094,
+    "stop" : 1589902026109,
+    "duration" : 25015
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bd1027ea60ebf0fc",
+      "name" : "Page screenshot",
+      "source" : "bd1027ea60ebf0fc.png",
+      "type" : "image/png",
+      "size" : 190720
+    }, {
+      "uid" : "dc054e016633a17c",
+      "name" : "Page screenshot",
+      "source" : "dc054e016633a17c.png",
+      "type" : "image/png",
+      "size" : 185719
+    }, {
+      "uid" : "743838665a964d0c",
+      "name" : "Page screenshot",
+      "source" : "743838665a964d0c.png",
+      "type" : "image/png",
+      "size" : 168841
+    }, {
+      "uid" : "cbacaf397f710226",
+      "name" : "Page screenshot",
+      "source" : "cbacaf397f710226.png",
+      "type" : "image/png",
+      "size" : 182437
+    }, {
+      "uid" : "33cedd04d07e3485",
+      "name" : "Page screenshot",
+      "source" : "33cedd04d07e3485.png",
+      "type" : "image/png",
+      "size" : 127378
+    }, {
+      "uid" : "d69f44cb15899771",
+      "name" : "Page screenshot",
+      "source" : "d69f44cb15899771.png",
+      "type" : "image/png",
+      "size" : 126521
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 6,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestJuicers"
+  }, {
+    "name" : "testClass",
+    "value" : "TestJuicers"
+  }, {
+    "name" : "testMethod",
+    "value" : "juiciers"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "TestingService"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJuicers"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8FTS9IR"
+  }, {
+    "name" : "thread",
+    "value" : "9172@DESKTOP-8FTS9IR.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43dd6a2df3696ed7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,106 @@
+{
+  "uid" : "5ae63721d4cc3910",
+  "name" : "juiciersWithP",
+  "fullName" : "TestJuicersWithPow.juiciersWithP",
+  "historyId" : "8d04d9d6b35ebe4d381e89a84d26c339",
+  "time" : {
+    "start" : 1589901243579,
+    "stop" : 1589901270281,
+    "duration" : 26702
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "649f3d51f929b86d",
+      "name" : "Page screenshot",
+      "source" : "649f3d51f929b86d.png",
+      "type" : "image/png",
+      "size" : 188553
+    }, {
+      "uid" : "12e6f1cd923005bd",
+      "name" : "Page screenshot",
+      "source" : "12e6f1cd923005bd.png",
+      "type" : "image/png",
+      "size" : 167864
+    }, {
+      "uid" : "84a353ff070d61f6",
+      "name" : "Page screenshot",
+      "source" : "84a353ff070d61f6.png",
+      "type" : "image/png",
+      "size" : 147180
+    }, {
+      "uid" : "93a4eb43232b0276",
+      "name" : "Page screenshot",
+      "source" : "93a4eb43232b0276.png",
+      "type" : "image/png",
+      "size" : 157553
+    }, {
+      "uid" : "978f319e514a2504",
+      "name" : "Page screenshot",
+      "source" : "978f319e514a2504.png",
+      "type" : "image/png",
+      "size" : 208049
+    }, {
+      "uid" : "31502516fad23da4",
+      "name" : "Page screenshot",
+      "source" : "31502516fad23da4.png",
+      "type" : "image/png",
+      "size" : 132056
+    }, {
+      "uid" : "d93a4312ec24bc89",
+      "name" : "Page screenshot",
+      "source" : "d93a4312ec24bc89.png",
+      "type" : "image/png",
+      "size" : 131392
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 7,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestJuicersWithPow"
+  }, {
+    "name" : "testClass",
+    "value" : "TestJuicersWithPow"
+  }, {
+    "name" : "testMethod",
+    "value" : "juiciersWithP"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "TestingService"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJuicersWithPow"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8FTS9IR"
+  }, {
+    "name" : "thread",
+    "value" : "18092@DESKTOP-8FTS9IR.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ae63721d4cc3910.json",
+  "parameterValues" : [ ]
+}

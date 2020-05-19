@@ -1,0 +1,41 @@
+[ {
+  "uid" : "61b9925d52e0e621",
+  "name" : "juiciersWithP",
+  "time" : {
+    "start" : 1589903766127,
+    "stop" : 1589903794026,
+    "duration" : 27899
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "561d5486855f7fc6",
+  "name" : "checkTowns",
+  "time" : {
+    "start" : 1589903861887,
+    "stop" : 1589903906457,
+    "duration" : 44570
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea30f1221a4a0668",
+  "name" : "authorize",
+  "time" : {
+    "start" : 1589903922698,
+    "stop" : 1589903957570,
+    "duration" : 34872
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1d365ec99b1c375",
+  "name" : "juiciers",
+  "time" : {
+    "start" : 1589903821612,
+    "stop" : 1589903848120,
+    "duration" : 26508
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
